@@ -1,5 +1,7 @@
 # Kaggle
 
+#### 학습한 내용 정리
+
 ### [kaggle 계정](https://www.kaggle.com/sunnight9507)
 
 #### Titanic: Machine Learning from Disaster
