@@ -1,8 +1,9 @@
 # Kaggle
 
-#### 학습한 내용 정리
-
 ### [kaggle 계정](https://www.kaggle.com/sunnight9507)
+
+
+### 학습한 내용 정리
 
 #### Titanic: Machine Learning from Disaster
 - **[Titanic EDA To Prediction(DieTanic)](https://github.com/sunnight9507/Kaggle/blob/master/Titanic/Titanic%20EDA%20To%20Prediction(DieTanic).ipynb)**
