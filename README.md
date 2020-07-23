@@ -22,3 +22,8 @@
   - 분류기(AdaBoostClassifier, ExtraTreesClassifier)
   - 시각화(pairplot, Plotly)
   - 분류기 Class화
+- **[Titanic Top 4% with ensemble modeling](https://github.com/sunnight9507/Kaggle/blob/master/Titanic/Titanic%20Top%204%25%20with%20ensemble%20modeling.ipynb)**
+  - 모델링(LinearDiscriminantAnalysis)
+  - Tukey method를 이용한 이상치 탐색
+  - 시각화
+    - Remove axis
